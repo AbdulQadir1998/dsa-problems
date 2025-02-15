@@ -1,0 +1,11 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "saifee",
+  "license": "ISC"
+}
